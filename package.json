@@ -1,0 +1,17 @@
+{
+  "name": "matt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.2",
+    "discord.js": "^12.5.3"
+  }
+}
